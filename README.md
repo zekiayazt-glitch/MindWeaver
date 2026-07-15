@@ -1,3 +1,3 @@
 # Mind-Weaver
-A project that will work as a second brain to help people by generating their time
-
+Think less.Remember more.
+Mind Weaver is an intelligent second brain designed to capture ideas, reveal connections, and boost productivity.
